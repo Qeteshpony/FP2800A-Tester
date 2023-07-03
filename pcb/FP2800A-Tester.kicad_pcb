@@ -5,6 +5,12 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "FP2800A-Tester")
+    (date "${DATE}")
+    (rev "${VERSION}")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -87,6 +93,9 @@
       (outputdirectory "")
     )
   )
+
+  (property "DATE" "~DATE~")
+  (property "VERSION" "~VERSION~")
 
   (net 0 "")
   (net 1 "unconnected-(A1-NC-Pad1)")
