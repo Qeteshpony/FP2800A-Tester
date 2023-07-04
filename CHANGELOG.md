@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Qeteshpony/FP2800A-Tester/compare/v1.0.0...v1.1.0) (2023-07-04)
+
+
+### Features
+
+* add COM Jumper ([9bb217a](https://github.com/Qeteshpony/FP2800A-Tester/commit/9bb217a832c6b033c05825b5408a660720be3de0))
+
 ## 1.0.0 (2023-07-03)
 
 
