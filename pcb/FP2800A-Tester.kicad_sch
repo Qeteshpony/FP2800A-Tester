@@ -1336,7 +1336,7 @@
     (property "Value" "FP2800A" (at 175.9459 53.205 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DIP:DIP-40_W15.24mm_Socket" (at 171.45 49.53 0)
+    (property "Footprint" "Socket:DIP_Socket-40_W11.9_W12.7_W15.24_W17.78_W18.5_3M_240-1280-00-0602J" (at 171.45 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://radow.org/doc/fp2800-datasheet.pdf" (at 171.45 49.53 0)
