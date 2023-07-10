@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/Qeteshpony/FP2800A-Tester/compare/v1.1.0...v1.2.0) (2023-07-10)
+
+
+### Features
+
+* initial code release ([a889a49](https://github.com/Qeteshpony/FP2800A-Tester/commit/a889a4943077f3e11daa80d03d439bba2450b33b))
+* replace IC socket with ZIF socket ([89d4ad5](https://github.com/Qeteshpony/FP2800A-Tester/commit/89d4ad598d1a1bd65329efb8804e9976bacfe1aa))
+
+
+### Bug Fixes
+
+* turn the loops around ([66abdb0](https://github.com/Qeteshpony/FP2800A-Tester/commit/66abdb034dc38ca23341db6be017dc87a18b23f6))
+
 ## [1.1.0](https://github.com/Qeteshpony/FP2800A-Tester/compare/v1.0.0...v1.1.0) (2023-07-04)
 
 
